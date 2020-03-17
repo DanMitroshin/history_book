@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/history_book/static/css/main.3c8f2b2b.chunk.css",
+    "main.css": "/history_book/static/css/main.e62770a0.chunk.css",
     "main.js": "/history_book/static/js/main.85c115e9.chunk.js",
     "main.js.map": "/history_book/static/js/main.85c115e9.chunk.js.map",
     "runtime-main.js": "/history_book/static/js/runtime-main.be361dd9.js",
@@ -8,16 +8,16 @@
     "static/js/2.96647c3f.chunk.js": "/history_book/static/js/2.96647c3f.chunk.js",
     "static/js/2.96647c3f.chunk.js.map": "/history_book/static/js/2.96647c3f.chunk.js.map",
     "index.html": "/history_book/index.html",
-    "precache-manifest.4d7a2cca3a0ba5dd5239d6cf848c07ab.js": "/history_book/precache-manifest.4d7a2cca3a0ba5dd5239d6cf848c07ab.js",
+    "precache-manifest.f764ee052ee1e1185c699f569010c61f.js": "/history_book/precache-manifest.f764ee052ee1e1185c699f569010c61f.js",
     "service-worker.js": "/history_book/service-worker.js",
-    "static/css/main.3c8f2b2b.chunk.css.map": "/history_book/static/css/main.3c8f2b2b.chunk.css.map",
+    "static/css/main.e62770a0.chunk.css.map": "/history_book/static/css/main.e62770a0.chunk.css.map",
     "static/js/2.96647c3f.chunk.js.LICENSE.txt": "/history_book/static/js/2.96647c3f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/history_book/static/media/Circe-Thin.d9851189.eot"
   },
   "entrypoints": [
     "static/js/runtime-main.be361dd9.js",
     "static/js/2.96647c3f.chunk.js",
-    "static/css/main.3c8f2b2b.chunk.css",
+    "static/css/main.e62770a0.chunk.css",
     "static/js/main.85c115e9.chunk.js"
   ]
 }
