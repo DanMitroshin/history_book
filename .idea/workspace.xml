@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09056dd2-07ba-4aa1-b882-417c9285abba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584430399598</updated>
-      <workItem from="1584430403448" duration="31947000" />
+      <workItem from="1584430403448" duration="32528000" />
     </task>
     <servers />
   </component>
@@ -93,5 +91,21 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1584433907726" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1584467481452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584467481452" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1584467481451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584467481451" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1584467481451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584467481451" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1584467481452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584467481452" />
   </component>
 </project>
