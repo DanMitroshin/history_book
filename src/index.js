@@ -7,7 +7,7 @@ import MainRouter from "./routers";
 
 
 ReactDOM.render(
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <MainRouter/>
     </BrowserRouter>
 ,
